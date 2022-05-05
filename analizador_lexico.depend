@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1651714656 source:c:\users\mitchell\documents\proyectos ing. mitchell blancas\upn\2022-1\compiladores\clases\s7\lab analizador lexico\analizador_lexico\main.cpp
+	<iostream>
+	<ctype.h>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+
